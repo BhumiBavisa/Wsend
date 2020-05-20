@@ -1,7 +1,7 @@
 # Wsend
 Android Application Which is used to send messages without save contact numbers and you can also send more then on contact with uploading csv file.
 
-![Demo](https://user-images.githubusercontent.com/497670/29021175-41e613c4-7b82-11e7-8887-a6d8186aeca3.gif)
+![Demo]
 
 
 How to Use
