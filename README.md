@@ -1,12 +1,11 @@
 # Wsend
 Android Application Which is used to send messages without save contact numbers and you can also send more then on contact with uploading csv file.
 
-
-
 # How To Use
 1.Include the File chooser dependency in app's build.gradle.
 
-dependencies {
+dependencies 
+{
     // google mobile vision
     implementation 'com.google.android.gms:play-services-vision:11.0.2'
 
