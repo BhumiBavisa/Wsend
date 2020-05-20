@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Changed the color theme as per requirements-->
+    <color name="colorPrimary">#517B58</color>
+    <color name="colorPrimaryDark">#3F9E4D	</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="splash_background_color">#517B58</color>
+
+    <color name="background">#fafafa</color>
+    <color name="blackTransparent">#000000</color>
+    <color name="hintColor">#BEBEBE</color>
+    <color name="lightGray"> #D3D3D3</color>
+    <color name="gray"> #c0c0c0</color>
+    <color name="profiletxt">#424242</color>
+    <color name="orange">#fe8019</color>
+</resources>

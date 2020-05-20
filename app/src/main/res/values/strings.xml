@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Wsend</string>
+    <string name="launch_file_picker">Launch File Picker</string>
+    <string name="file_thumbnail">File thumbnail</string>
+
+    <string name="bucketname">BucketName : %1$s</string>
+    <string name="launch_audio_picker">Launch audio picker</string>
+    <string name="launch_video_picker">Launch video picker</string>
+    <string name="launch_image_picker">Launch image picker</string>
+    <string name="share_log">Share</string>
+
+
+    <string name="phone_number_input">Enter the phone number you want to message on WhatsApp (along with country code)</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="button_text">Message on WhatsApp</string>
+
+    <string name="upload">UPLOAD CONTACT</string>
+    <string name="read_file">This app needs access to your file storage so that it can read files.</string>
+    <string name="internal_storage">Internal storage</string>
+
+
+    <string name="ad_unit_id">ca-app-pub-2391411119178891/8344601799</string>
+    <string name="ad_app_id">ca-app-pub-2391411119178891~4782375709</string>
+
+    <string name="ad_single_unit_id">ca-app-pub-2391411119178891/6799408227</string>
+    <string name="ad_single_app_id">ca-app-pub-2391411119178891~8616064531</string>
+
+</resources>
+
+
+
+

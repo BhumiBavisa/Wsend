@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WSEND"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="100dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="130dp" />
+
+
+
+
+    <ImageView
+        android:id="@+id/img"
+        android:src="@drawable/web_hi_res_512"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+
+
+        />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/white"
+        android:text="Send messages and files direct to any number without saving contact"
+        android:layout_marginBottom="100dp"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:padding="10dp"
+        android:gravity="center"
+        />
+
+</RelativeLayout>
